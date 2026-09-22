@@ -1,15 +1,20 @@
-# Hospital-Cost-Optimization-using-Activity-Based-Costing-ABC-
-Problem Statement
+# Problem Statement
+
 Hospitals often struggle with unclear cost structures, leading to inefficient resource allocation and rising operational costs.
 
 This project aims to identify:
 
-Which hospital services are most expensive
-What drives these costs
-Where efficiency improvements can be made
-Objective
-To apply Activity-Based Costing (ABC) to accurately allocate costs across hospital services and uncover actionable insights for cost optimization.
+- Which hospital services are most expensive
+- What drives these costs
+- Where efficiency improvements can be made
 
+---
+
+# Objective
+
+To apply **Activity-Based Costing (ABC)** to accurately allocate costs across hospital services and uncover actionable insights for cost optimization.
+
+---
 Approach
 1. Cost Structure Breakdown
 Total hospital cost: ₹13.9 Cr
